@@ -1,4 +1,4 @@
-namespace MadLibs
+namespace Rectangles
 {
   using System.IO;
   using Microsoft.AspNet.Builder;
